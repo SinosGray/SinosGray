@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=SinosGray&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **SinosGray/SinosGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
